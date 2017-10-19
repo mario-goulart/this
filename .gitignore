@@ -1,0 +1,7 @@
+this.build.sh
+this.import.scm
+this.import.so
+this.install.sh
+this.link
+this.so
+this.static.o

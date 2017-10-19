@@ -1,0 +1,7 @@
+;; -*- scheme -*-
+((synopsis "Python's \"this\" module ported to CHICKEN")
+ (author "Mario Domenech Goulart")
+ (category misc)
+ (license "BSD")
+ (version "0.1")
+ (components (extension this)))
